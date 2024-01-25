@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "022", "022", "{A98A9A10-98F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp1", "02\WpfApp1\WpfApp1\WpfApp1.csproj", "{36697D92-3BA9-4CC7-AA5E-FB72D0596A34}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "033-Prism1", "033-Prism1", "{15DD4671-2B30-47D4-8D65-75F7AC9BCFAB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlankCoreApp1", "03\BlankCoreApp1\BlankCoreApp1\BlankCoreApp1.csproj", "{0A3E5BBA-3DE0-48F1-88A9-2248809EA1E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{36697D92-3BA9-4CC7-AA5E-FB72D0596A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36697D92-3BA9-4CC7-AA5E-FB72D0596A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36697D92-3BA9-4CC7-AA5E-FB72D0596A34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A3E5BBA-3DE0-48F1-88A9-2248809EA1E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A3E5BBA-3DE0-48F1-88A9-2248809EA1E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A3E5BBA-3DE0-48F1-88A9-2248809EA1E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A3E5BBA-3DE0-48F1-88A9-2248809EA1E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{AA555E0A-A145-4DAB-AD92-3882FE172D66} = {9727F690-004F-47B7-A25E-42A0426406D9}
 		{36697D92-3BA9-4CC7-AA5E-FB72D0596A34} = {A98A9A10-98F0-40FB-B098-512F61923824}
+		{0A3E5BBA-3DE0-48F1-88A9-2248809EA1E2} = {15DD4671-2B30-47D4-8D65-75F7AC9BCFAB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0EDD1E39-40D8-41A6-B81D-DE5DD869D9EB}
